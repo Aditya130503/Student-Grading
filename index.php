@@ -491,11 +491,7 @@
 
     <div class="container d-md-flex py-4">
 
-      <div class="mr-md-auto text-center text-md-left">
-        <div class="copyright">
-          &copy; <strong><span>Student Grading System</span></strong> - <?php echo date('Y');?> - Developed By Sodiq Ahmed
-        </div>
-        <div class="credits">
+      
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
